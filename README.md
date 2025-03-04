@@ -26,20 +26,14 @@ As you answer questions, the app instantly updates your score and provides a com
 
 ## How to Install and Run
 
-1. Clone the repository:
-
-    ```bash
-   gh repo clone VINAYAK9669/React-QuizApp
-    ```
-
-2. Install dependencies:
+1. Install dependencies:
 
     ```bash
     cd React-QuizApp
     npm install
     ```
 
-3. Start the development server:
+2. Start the development server:
 
     ```bash
     npm start
